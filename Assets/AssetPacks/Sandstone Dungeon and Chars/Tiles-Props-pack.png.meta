@@ -1,0 +1,2071 @@
+fileFormatVersion: 2
+guid: bb7705c0ee896a743b3adb02e8c067b3
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Tiles-Props-pack_0
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 261
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45dc54d3525b10d439da97a396aec836
+      internalID: 1090989199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles-Props-pack_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 261
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70ce938dcc447ff46974a6c43b8a00e2
+      internalID: -395642838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles-Props-pack_2
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 261
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23db70711a4c41a478224b026a424b9e
+      internalID: 89465006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles-Props-pack_3
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 261
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb223f4e50255274eb23efffd52b8e0c
+      internalID: 584027997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles-Props-pack_4
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 261
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8b51759adaea8841a0f11f4945e9a7e
+      internalID: 13064797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles-Props-pack_5
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 261
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acc1208f8ed028549ac87c38b2a206a8
+      internalID: -615869916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles-Props-pack_6
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 261
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ee779bcfd0d9f44483bdd6ac7ae9592
+      internalID: -1946926689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles-Props-pack_7
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 261
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4de7ee0b6bba26c4e80ff7a14004bf23
+      internalID: -836749712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles-Props-pack_8
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 261
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d767b2449c13ad34594650546b65246b
+      internalID: 604560311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles-Props-pack_9
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 229
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9fc0d55d2f387049bb1d485f6f5f920
+      internalID: 2096656241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles-Props-pack_10
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 229
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24cc914bf2f09544bbe890d8383dd41f
+      internalID: -2063541567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles-Props-pack_11
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 229
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0facd435f38844b41ba23163118deb49
+      internalID: 1001650779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles-Props-pack_12
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 229
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abb76698aaabd5e48bbfb3f6d9e7d61d
+      internalID: -1439688227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles-Props-pack_13
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 229
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 281842e234088534988e77a2c7fd91f5
+      internalID: 1955364832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles-Props-pack_14
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 229
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6d4e0d0f58dda04c8f112e082efa56d
+      internalID: -337053209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles-Props-pack_15
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 229
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05a50118ff2e1b247ae57d67d65dbd70
+      internalID: -1795775655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles-Props-pack_16
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 229
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d80262c96d5cd8499a6b10be0cdda0f
+      internalID: -1053299537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles-Props-pack_17
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 229
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3daebc0ae84454448bc7cd5ee3db6886
+      internalID: 1768886791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles-Props-pack_18
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 197
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e12e34c6a6be7e8429b131a6c8983e64
+      internalID: 562603034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles-Props-pack_19
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 197
+        width: 7
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db91bdd416b4542419f2861ade450305
+      internalID: -1198184296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles-Props-pack_20
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 197
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23066fe1710f3a54c9e97bff58706d98
+      internalID: -1649874268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles-Props-pack_21
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 197
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a65b3ce78e24ae84d9af0a73ddf0fedd
+      internalID: 1078114894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles-Props-pack_22
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 197
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fdd4d9199a2eec409e8172c7cda2120
+      internalID: 578955187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles-Props-pack_23
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 197
+        width: 7
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f6b8d9db0dd526438f7183a72d3acbc
+      internalID: -605789440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles-Props-pack_24
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 197
+        width: 7
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cc353fd4156c7447bf43548eb3b2fe4
+      internalID: 159967135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles-Props-pack_25
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 197
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b323bbc22685ed444ba962590fd38f56
+      internalID: 1117222809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles-Props-pack_26
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 197
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34b59332978e8d245bcb5f8befc80a0d
+      internalID: 1636756585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles-Props-pack_27
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 163
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4176ed070100b8243b7712a0504de56d
+      internalID: 628915662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles-Props-pack_28
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 163
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5962b62991a65194da83a5f0ddad6f33
+      internalID: 602920540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles-Props-pack_29
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 163
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80f909cec08b6ce4cbfbcc5f84289816
+      internalID: 1355652032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles-Props-pack_30
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 163
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2f3e03073100e345b6f2b485044af1a
+      internalID: 2035683128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles-Props-pack_31
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 163
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37abeaa36447d1747a0e3c6555d8f318
+      internalID: 93079783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles-Props-pack_32
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 163
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca88aee419bb5664b91520cbf31e36ae
+      internalID: -192295147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles-Props-pack_33
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 163
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 833ce578dc6888e4c81023db9b720ecd
+      internalID: 115742016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles-Props-pack_34
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 163
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c4279da466aff54fbb1a7091cc4ed1c
+      internalID: -328704670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles-Props-pack_35
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 163
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fce114db49ec794f91d64d09a45941f
+      internalID: -1015474459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles-Props-pack_36
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 130
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e303a6b9fb2d38040b0cce05cd61609b
+      internalID: -1136459731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles-Props-pack_37
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 130
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd48185ce5fd62c4abc006ec4b40bf1f
+      internalID: -1313013309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles-Props-pack_38
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 130
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bc1b66ce35d0e24d96c1ab1609bfbb1
+      internalID: -12416879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles-Props-pack_39
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 130
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cae027129fd00dc43a7bce31e296e805
+      internalID: -1238013164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles-Props-pack_40
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 130
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ca5bd550fc360f43aba4c8ba16ef9b1
+      internalID: 1578346545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles-Props-pack_41
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 134
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e40b4efa9ace0824e995f0e132361cef
+      internalID: 1016963274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles-Props-pack_42
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 136
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 929c5ca54ace2114983be0394cc98432
+      internalID: -196559072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles-Props-pack_43
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 134
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad50dacdf4ef7c34f9e6742d7faf4b36
+      internalID: -948734311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles-Props-pack_44
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 136
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 056a95499d1ea59499c4e532e9752f1f
+      internalID: -6450782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles-Props-pack_45
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 134
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ca1fe2becc854c469ccc810fddbfbe4
+      internalID: 990717703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles-Props-pack_46
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 136
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1df3c986fb41af48a6c04645b034be5
+      internalID: 1210849421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles-Props-pack_47
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 134
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ee20ba9dd7533846bf98652c9808147
+      internalID: 1238736786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles-Props-pack_48
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 136
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c5f86ffde79b29459a640bf561e8b01
+      internalID: 1963495265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles-Props-pack_49
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 134
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e8d2b1be04856c49b1d3363a7bb6b72
+      internalID: -1004570191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles-Props-pack_50
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 136
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58073be2e0f103a4280ba64e8a619dd8
+      internalID: 1683421733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles-Props-pack_51
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 96
+        width: 7
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af1d5db0f62bffd4a82e3ba114c72fbd
+      internalID: -1959070378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles-Props-pack_52
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 96
+        width: 7
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf44875008f9c114cba1b34a3b8f612a
+      internalID: 1893582931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles-Props-pack_53
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 96
+        width: 6
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f7adddb02e81344193e042313713356
+      internalID: 1445501741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles-Props-pack_54
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 96
+        width: 6
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faa75bc91d3925c42ba4241bfa0cc0a6
+      internalID: 1073234423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles-Props-pack_55
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 96
+        width: 6
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da37e390b84f4974792f24a3bcc4b31c
+      internalID: 1512379554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles-Props-pack_56
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 96
+        width: 6
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a570acd393494d499714b49116dec17
+      internalID: -1100657414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles-Props-pack_57
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 96
+        width: 6
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36e103189696f24409ff1a755ea59d23
+      internalID: -754170581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles-Props-pack_58
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 96
+        width: 7
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6fe748f0aa9dd7499b691a8a7e0375b
+      internalID: 1664123649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles-Props-pack_59
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 96
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71e847762e4e670459094839d4b3be42
+      internalID: 1267691885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles-Props-pack_60
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 99
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52135f0bc6cd7bd4cbe9dbddee4dfebe
+      internalID: 575732735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles-Props-pack_61
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 34
+        width: 21
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17e5d0c98feb7d64ab3648dffd0d2e9d
+      internalID: -179883360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles-Props-pack_62
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 69
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d1ba2832f150bd408ec578dc47290a7
+      internalID: 1430020990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles-Props-pack_63
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 68
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e66b07d07e4d0c346a3c7e382e5b9da9
+      internalID: -1119175235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles-Props-pack_64
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 68
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdb682469f6b56a4596ba8552f0a3371
+      internalID: -761902842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles-Props-pack_65
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 70
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a4b85d68e5c7324dbf8579a60fea543
+      internalID: -167028078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles-Props-pack_66
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 71
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecddbc5197a8b77438b30bd6d7bd8a86
+      internalID: -1762598723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles-Props-pack_67
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 69
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2df6698d05645094f9071f54447b5c8c
+      internalID: 2127359373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles-Props-pack_68
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 71
+        width: 25
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 632628bdfe67d9d4abb32ce04340766d
+      internalID: -1662528689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles-Props-pack_69
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 26
+        width: 22
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c246d925275e1e4a8ee59aabff5a736
+      internalID: 418059197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles-Props-pack_70
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 72
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 921ffda30ba1f5c4791df72440f7dc6c
+      internalID: 415777914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles-Props-pack_71
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 36
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed9a10b9a07684b438525aa0666c48b3
+      internalID: -188155083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles-Props-pack_72
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 35
+        width: 44
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77aafe5c0dec2e449bb9b5d2d9aebd91
+      internalID: -20125197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles-Props-pack_73
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 37
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6253c48cb2bcbc843aecd105674b2f8c
+      internalID: 1025733580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles-Props-pack_74
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 38
+        width: 25
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 267781a7eff5c0542991017b2266368d
+      internalID: -589993652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles-Props-pack_75
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 37
+        width: 27
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e653cc964100fd04b81e584ef7039a71
+      internalID: 594657058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles-Props-pack_76
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 36
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d334a660cdd709b4e8b68e2778eb528b
+      internalID: -1544660156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles-Props-pack_77
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 43
+        width: 23
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2b15eb8096968b41b2ac83c258d8c9e
+      internalID: -426407507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles-Props-pack_78
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6521c4bc78aea741827cb1137c7ff4f
+      internalID: -491652723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles-Props-pack_79
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 9
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65d79bd15baee154fb44e1c2adf79517
+      internalID: 872970570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles-Props-pack_80
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 6
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 423883fc334538c4ca16a892b14e89f0
+      internalID: -2023769296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles-Props-pack_81
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 0
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2e4a9ad761a108458b93bef7352b3eb
+      internalID: -633845378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles-Props-pack_82
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 10
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb428f14d470f584abb0b6253451a7b6
+      internalID: 364076911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles-Props-pack_83
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 8
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4f8bddadb4a5484da3d2ef17285b037
+      internalID: 1664828402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles-Props-pack_84
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 0
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d515939a1ded32d47886b6488d4b621d
+      internalID: -805016485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles-Props-pack_85
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 10
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf88493eaa024ae4f9aadab73158d780
+      internalID: -1856717458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles-Props-pack_86
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 0
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 809acb8164d16774ca5b285fefd90e0e
+      internalID: -2074235828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tiles-Props-pack_87
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 1
+        width: 27
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1c180019e3ec814c8f8ef643e98d8fc
+      internalID: 1062039732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Tiles-Props-pack_38: -12416879
+      Tiles-Props-pack_54: 1073234423
+      Tiles-Props-pack_9: 2096656241
+      Tiles-Props-pack_40: 1578346545
+      Tiles-Props-pack_18: 562603034
+      Tiles-Props-pack_78: -491652723
+      Tiles-Props-pack_20: -1649874268
+      Tiles-Props-pack_70: 415777914
+      Tiles-Props-pack_65: -167028078
+      Tiles-Props-pack_36: -1136459731
+      Tiles-Props-pack_62: 1430020990
+      Tiles-Props-pack_10: -2063541567
+      Tiles-Props-pack_6: -1946926689
+      Tiles-Props-pack_26: 1636756585
+      Tiles-Props-pack_87: 1062039732
+      Tiles-Props-pack_15: -1795775655
+      Tiles-Props-pack_81: -633845378
+      Tiles-Props-pack_48: 1963495265
+      Tiles-Props-pack_68: -1662528689
+      Tiles-Props-pack_4: 13064797
+      Tiles-Props-pack_82: 364076911
+      Tiles-Props-pack_61: -179883360
+      Tiles-Props-pack_56: -1100657414
+      Tiles-Props-pack_17: 1768886791
+      Tiles-Props-pack_35: -1015474459
+      Tiles-Props-pack_64: -761902842
+      Tiles-Props-pack_50: 1683421733
+      Tiles-Props-pack_7: -836749712
+      Tiles-Props-pack_77: -426407507
+      Tiles-Props-pack_46: 1210849421
+      Tiles-Props-pack_22: 578955187
+      Tiles-Props-pack_16: -1053299537
+      Tiles-Props-pack_51: -1959070378
+      Tiles-Props-pack_86: -2074235828
+      Tiles-Props-pack_41: 1016963274
+      Tiles-Props-pack_32: -192295147
+      Tiles-Props-pack_39: -1238013164
+      Tiles-Props-pack_1: -395642838
+      Tiles-Props-pack_43: -948734311
+      Tiles-Props-pack_58: 1664123649
+      Tiles-Props-pack_67: 2127359373
+      Tiles-Props-pack_53: 1445501741
+      Tiles-Props-pack_23: -605789440
+      Tiles-Props-pack_34: -328704670
+      Tiles-Props-pack_33: 115742016
+      Tiles-Props-pack_3: 584027997
+      Tiles-Props-pack_72: -20125197
+      Tiles-Props-pack_25: 1117222809
+      Tiles-Props-pack_24: 159967135
+      Tiles-Props-pack_63: -1119175235
+      Tiles-Props-pack_60: 575732735
+      Tiles-Props-pack_55: 1512379554
+      Tiles-Props-pack_5: -615869916
+      Tiles-Props-pack_79: 872970570
+      Tiles-Props-pack_42: -196559072
+      Tiles-Props-pack_2: 89465006
+      Tiles-Props-pack_76: -1544660156
+      Tiles-Props-pack_19: -1198184296
+      Tiles-Props-pack_80: -2023769296
+      Tiles-Props-pack_29: 1355652032
+      Tiles-Props-pack_44: -6450782
+      Tiles-Props-pack_85: -1856717458
+      Tiles-Props-pack_59: 1267691885
+      Tiles-Props-pack_83: 1664828402
+      Tiles-Props-pack_49: -1004570191
+      Tiles-Props-pack_66: -1762598723
+      Tiles-Props-pack_13: 1955364832
+      Tiles-Props-pack_21: 1078114894
+      Tiles-Props-pack_71: -188155083
+      Tiles-Props-pack_31: 93079783
+      Tiles-Props-pack_69: 418059197
+      Tiles-Props-pack_0: 1090989199
+      Tiles-Props-pack_47: 1238736786
+      Tiles-Props-pack_52: 1893582931
+      Tiles-Props-pack_74: -589993652
+      Tiles-Props-pack_27: 628915662
+      Tiles-Props-pack_45: 990717703
+      Tiles-Props-pack_37: -1313013309
+      Tiles-Props-pack_8: 604560311
+      Tiles-Props-pack_75: 594657058
+      Tiles-Props-pack_12: -1439688227
+      Tiles-Props-pack_84: -805016485
+      Tiles-Props-pack_11: 1001650779
+      Tiles-Props-pack_14: -337053209
+      Tiles-Props-pack_30: 2035683128
+      Tiles-Props-pack_57: -754170581
+      Tiles-Props-pack_28: 602920540
+      Tiles-Props-pack_73: 1025733580
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

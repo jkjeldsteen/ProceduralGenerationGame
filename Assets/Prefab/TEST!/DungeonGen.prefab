@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &5587332801612734576
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5587332801612734574}
+  - component: {fileID: 5587332801612734575}
+  m_Layer: 0
+  m_Name: DungeonGen
+  m_TagString: LevelGeneration
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5587332801612734574
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5587332801612734576}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &5587332801612734575
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5587332801612734576}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8068b8f5f567b6240a1d2849a8f381e5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  player: {fileID: 302262676530699388, guid: 60ce119aa5fff6f4ebac2e6ad1391e70, type: 3}
+  abilityCodex: {fileID: 5167715068445924052, guid: cc0050fe7d2acb444b5bf953380c17d5, type: 3}
+  healthPot: {fileID: 2388208247991270458, guid: 173d0f0f51203274da39fc5f7fcc301d, type: 3}
+  weightedEnemies:
+  - enemy: {fileID: 6858026994748472863, guid: 9952a7b8806cf0f4e9e40a9e003d64ec, type: 3}
+    weight: 50
+  - enemy: {fileID: 4167560004624481211, guid: 97684607a78e5024daa14dfb4115ed5f, type: 3}
+    weight: 50
+  endFloorArtefact:
+  - {fileID: 439979717911314671, guid: f517e0a3f9af7bf428c88c984f0f87c3, type: 3}
+  k: 0
+  room: {fileID: 2422884409556954890, guid: 0b833d1b8f6d2f844bb6199b91892632, type: 3}
+  lockedRoomUpDown: {fileID: 2614452003513055542, guid: a5ae7c5899276b041b75ca00a206383f, type: 3}
+  lockedRoomRightLeft: {fileID: 4457789463791836338, guid: 27e3117a8a3d0b14b9e767c0bd26a994, type: 3}
+  key: {fileID: 3068163613297177848, guid: 069b5e4acc97fb04aa46344cd9854c84, type: 3}
+  enemyCount: 0
+  keylockSpawned: 0
+  playerSpawned: 0
+  levelCount: 1
+  RunGeneration: 0
+  gameStarted: 0
